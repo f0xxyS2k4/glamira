@@ -1,7 +1,0 @@
-*.tar.gz
-*.BIN
-*.csv
-*.log
-
-countly_env/
-__pycache__/
