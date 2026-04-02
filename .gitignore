@@ -5,3 +5,14 @@
 
 countly_env/
 __pycache__/
+
+# Không đẩy file log
+*.log
+logs/
+
+# Không đẩy dữ liệu tạm
+exports/
+tmp/
+# Security
+*.json
+.env
